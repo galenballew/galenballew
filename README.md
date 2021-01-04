@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**galenballew/galenballew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <br>
+  <br>
+  <br>
+  <samp>I design and build secure, distributed systems that span multiple clouds, data centers, and networks.<br>I'm also interested in generative adversarial networks and the possibilities created by synthetic data.<br><br><pre> Python  |  TensorFlow  |  Kubernetes  |  AWS  |  GCP</pre> </samp>
+  <br>
+  <br>
+</p>
+<p align="right">
+  <img src="https://github.com/galenballew/galenballew/blob/main/party-time.gif"/>
+  <br>
+  <br>
+</p>
