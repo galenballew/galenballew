@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>I design and build secure, distributed systems that span multiple clouds, data centers, and networks.<br>I'm also interested in generative adversarial networks and the possibilities created by synthetic data.<br><br><pre> Python  |  TensorFlow  |  Kubernetes  |  AWS  |  GCP</pre> </samp>
+  <samp>I design and build secure, distributed systems that span multiple clouds, data centers, and networks.<br>I'm interested in generative adversarial networks, simulations and synthetic data, MLOps, and data provenance.<br><br> Python  |  TensorFlow  |  Kubernetes  |  AWS  |  GCP</samp>
   <br>
   <br>
 </p>
