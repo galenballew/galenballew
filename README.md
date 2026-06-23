@@ -2,9 +2,9 @@
   <br>
   <br>
   <br>
-  <samp>8 years of professional experience in engineering and technical leadership. Demonstrated track records of success
+  <samp>10+ years of professional experience in engineering and technical leadership. Demonstrated track records of success
     in programming end-to-end machine learning pipelines, designing enterprise-scale cloud platforms, developing strategic roadmaps, and building consensus across leadership, engineering, and business stakeholders.<br><br>
-I have expertise in Python, machine learning,  artificial intelligence, MLOps, and fine-tuning / prompt-tuning large foundation models. Projects particularly interesting to me involve computer vision, robotics, autonomous systems, multi-modal models, and agent-based systems. <br><br><br>
+I have expertise in Python, machine learning,  artificial intelligence, MLOps, and fine-tuning / prompt-tuning large foundation models. Projects particularly interesting to me involve computer vision, robotics, and reinforcement learning. <br><br><br>
    Python  |  ML/AI  |  MLOps  |  Kubernetes  |  AWS  |  GCP</samp>
   <br>
   <br>
